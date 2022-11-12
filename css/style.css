@@ -145,6 +145,7 @@ nav {
 .playa {
   margin-top: 1rem;
   margin-right: 0;
+  padding-right: 1px;
 }
 
 .mas {
@@ -157,7 +158,14 @@ nav {
 .bs {
   margin-top: 1rem;
 }
-
+.juntas{
+  padding: 2px;
+}
+.botonverde{
+  width: 100%;
+  padding-left: unset;
+  padding-right: unset;
+}
 .conviertete {
   text-align: center;
   margin-top: 2rem;
@@ -252,7 +260,7 @@ nav {
   .footer-items {
     margin-top: 1rem;
     text-align: center;
-    margin-left: 15rem;
+    margin-left: 12rem;
     margin-right: -10rem;
   }
 }
